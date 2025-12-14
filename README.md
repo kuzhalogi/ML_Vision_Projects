@@ -21,4 +21,13 @@ This repository features two distinct machine learning projects focused on **com
 | **Impact** | Enabling the accurate identification of diseases to support **timely** agricultural intervention. |
 | **Location** | Find the details and code in the [Dead Plant Prediction](./Dead_Plant_Prediction/) folder. |
 
+### 3. Vehicle Counting Web Application
+
+| Aspect | Details |
+| :--- | :--- |
+| **Technology** | Flask based web application using **OpenCV** for computer vision processing. |
+| **Goal** | Detect and **count vehicles** from video streams or recorded footage. |
+| **Features** | Frame processing, vehicle detection, and count visualization through a web interface. |
+| **Location** | Find the details and code in the [Count Vehicle App](./Count_Vehicle_app/) folder. |
+
 ***
