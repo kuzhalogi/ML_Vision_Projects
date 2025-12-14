@@ -1,14 +1,19 @@
-Step to run application:
-Step 1:	Create the copy of the project.
-Step 2: Open command prompt and change your current path
-to folder where you can find 'app.py' file.
-Step 3: Create environment by command given below-
-conda create -name <environment name> python=3.7
-Step 4: Activate environment by command as follows-
-conda activate <environment name>
-Step 5: Use command below to install required dependencies-
-python -m pip install -r requirements.txt
-Step 6: Run application by command;
-python app.py
-You will get url copy it and paste in browser.
-Step 7: You have sample_data folder where you can get images to test.
+## Steps to Run the Application
+
+1. **Copy the Project**  
+   Create a local copy of the repository on your machine.
+
+2. **Navigate to the Project Folder**  
+   Open the command prompt or terminal and change your current directory to the folder containing `app.py`.
+
+3. **Create the Environment**  
+   Run the following command to create a Python 3.7 environment:  
+   ```conda create -n <environment_name> python=3.7```
+4. **Activate the Environment**  
+   ```conda activate <environment_name>```
+6. **Install Dependencies**
+   ```python -m pip install -r requirements.txt```
+7. **Run the Application**  
+   Copy the URL displayed in the terminal and open it in your browser to access the app.
+8. **Test the Application**  
+   Use the `sample_data` folder to try sample images for vehicle detection and counting.
